@@ -1,0 +1,22 @@
+.recipe-list {
+    padding: 50px 0 45px;
+}
+.list-category ul {
+    margin-bottom: 0;
+}
+.list-category h3 {
+    padding-bottom: 25px;
+    font-size: 25px;
+    padding-left: 35px;
+    position: relative;
+    margin-bottom: 35px;
+}
+.list-category h3:before {
+    position: absolute;
+    content: "";
+    background: #F0AE34;
+    width: 8%;
+    height: 5px;
+    bottom: 0;
+    left: 35px;
+}

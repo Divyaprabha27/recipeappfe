@@ -1,0 +1,77 @@
+.breadcrumbs {
+    background: url('../../assets/banner.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    color: #fff;
+    text-align: center;
+    padding-top: 12%;
+    height: 50vh;
+}
+.recipeform {
+    padding: 5%;
+}
+.recipeform label {
+    display: block;
+    padding-bottom: 15px;
+    font-size: 20px;
+}
+.recipeform div {
+    padding-bottom: 25px;
+}
+.recipeform input,select {
+    width: 100%;
+    background: #F8F8F8;
+    height: 45px;
+    padding-left: 15px;
+    border: none;
+}
+.recipeform textarea {
+    width: 100%;
+    background: #F8F8F8;
+    padding-left: 15px;
+    border: none;
+}
+.recipeform .col-6 input {
+    padding-top: 8px;
+    margin-bottom: 15px;
+}
+.recipeform .upload {
+    background: #F0AE34;
+    color: #fff;
+    border: none;
+    padding: 10px 15px;
+}
+.recipeform h4 {
+    padding-bottom: 15px;
+}
+.input_container .add {
+    background: #F0AE34;
+    border: none;
+    color: #fff;
+    padding: 15px 20px;
+    margin-top: 15px;
+}
+.input_container {
+    position: relative;
+}
+.input_container input {
+    position: relative;
+}
+.input_container .delete {
+    position: absolute;
+    right: 5px;
+    top: 8px;
+    border: none;
+    background: transparent;
+}
+.warn {
+    padding: 40px 0;
+}
+.warn h5 {
+    background-color: #f2f2f2;
+    padding: 30px;
+}
+.warn a {
+    color: #F0AE34;
+}

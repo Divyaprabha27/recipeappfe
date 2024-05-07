@@ -1,0 +1,26 @@
+.landingPage {
+    background: url('../../assets/banner.jpg');
+    height: 100vh;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    color: #fff;
+    text-align: center;
+    padding: 13% 0;
+}
+.landingPage h1 {
+    letter-spacing: 2px;
+    font-size: 70px;
+    padding-bottom: 20px;
+}
+.landingPage p {
+    font-size: 25px;
+    padding-bottom: 15px;
+}
+.landingPage a {
+    width: 200px;
+    height: 45px;
+    font-size: 20px;
+    display: block;
+    margin: 0 auto;
+}

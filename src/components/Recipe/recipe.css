@@ -1,0 +1,14 @@
+.recipe-banner {
+    background: url('../../assets/banner.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    padding: 10% 0;
+    text-align: center;
+    color: #fff;
+}
+.row {
+    margin: 0;
+}
+.single-img {
+   text-align: center;
+}

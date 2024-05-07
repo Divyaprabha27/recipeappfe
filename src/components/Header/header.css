@@ -1,0 +1,29 @@
+.header {
+    position: fixed;
+    width: 100%;
+    background: #fff;
+    z-index: 100;
+    border-bottom: 5px solid #F0AE34;
+}
+.logo img {
+    width: 155px;
+}
+.navbar {
+    padding-top: 20px;
+    float: right;
+}
+.navbar .nav-item {
+    padding: 0 12px;
+}
+.menu-dropdown {
+     padding: 0;
+     display: none;
+}
+.menu-dropdown li {
+    list-style: none;
+    padding: 5px 0 !important;
+}
+
+.dropdown:hover .menu-dropdown {
+    display: block !important;
+}

@@ -1,0 +1,47 @@
+.user-bnr {
+    background: #ccc;
+    padding: 30px 0;
+    text-align: center;
+}
+.dashboard {
+    padding-top: 5%;
+
+}
+.profile-bg {
+    background: #ccc;
+    padding: 5% 0;
+    text-align: center;
+}
+.dashboard .feed {
+    padding: 3% 0;
+}
+.dashboard .feed li {
+    list-style: none;
+    display: inline-block;
+    box-shadow: 0 5px 6px #ccc;
+    margin: 0 8px 25px;
+    width: 23%;
+}
+.dashboard .feed h3 {
+    padding-left: 35px;
+    padding-bottom: 20px;
+    position: relative;
+    margin-bottom: 30px;
+}
+.dashboard .feed h3:before {
+    position: absolute;
+    content: "";
+    background: #F0AE34;
+    width: 10%;
+    height: 5px;
+    bottom: 0;
+}
+.dashboard .feed img {
+    margin-bottom: 15px;
+}
+.dashboard .feed h5,p {
+    padding-left: 15px;
+}
+.dashboard .feed h5 {
+    color: #F0AE34;
+}
