@@ -1,6 +1,6 @@
 import axios from "axios";
 //define the base url for the api
-const baseURL = 'http://localhost:8000/api';
+const baseURL = 'https://recipeappbe.onrender.com/api';
 
 //define the instance
 const authInstance = axios.create({
